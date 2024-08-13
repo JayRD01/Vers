@@ -1,3 +1,5 @@
 Nuevo documento de git
 aqui practicaremos el uso del
-sistema de control de versiones
+sistema de control de versiones.
+
+Soy Darlyn y tengo 25 anos
