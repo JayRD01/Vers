@@ -8,5 +8,10 @@ pruebas ramdon al archivo
 
 Ahora estamos haciendo otra modificacion 
 
+<<<<<<< HEAD
 prometo no hacer mas nada aqui
 aquiauququqiqiiqiqiqiqi
+=======
+
+nueva modifififiifififififif
+>>>>>>> nueva
