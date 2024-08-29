@@ -1,4 +1,6 @@
 Correccion definitiva al documento del 
 curso de Git
 
-Linea de correccion escribir aqui
+Linea de correccion escribir aqui.
+
+Ya casi me tengo que ir.
